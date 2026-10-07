@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koniture05.co.kr/sitemap.xml
